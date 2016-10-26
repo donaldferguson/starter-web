@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 This is a demo/tutorial exercise. Thanks but nothing to see here.
+
+###Deployment
+Instructions about using the non-existent test package.
