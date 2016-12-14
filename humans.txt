@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Donald Ferguson -- Typist -- @donaldferguson
 
 # THANKS
 
