@@ -1,5 +1,5 @@
 # Starter Web Repo
-This repository is for showing how Git and GitHub work. Adding text to the top for now. This is the newest text for rebasing example. Then more changes from myfeature branch also.
+This repository is for showing how Git and GitHub work. Adding text to the top for now. This is the newest text for rebasing example. Then more changes from myfeature branch also. Adding emergency line to update stash stuff.
 
 ## Introduction
 This is an example of a README file created while learning Git. My intention is to show the different parts of the README formatted as HTML on GitHub.
