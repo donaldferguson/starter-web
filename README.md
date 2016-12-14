@@ -17,4 +17,4 @@ This is a demo/tutorial exercise. Thanks but nothing to see here. I've added thi
 Instructions about using the non-existent test package. This is some more text.
 
 ###Copyright
-2016 Git.Training.Dude
+2016 Git.Training.Dude All rights reserved, Yo!
