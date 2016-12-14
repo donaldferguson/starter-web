@@ -11,7 +11,7 @@ Sample website with plenty of files for demos.
 	<li>Determine 
 
 ## How to Contribute
-This is a demo/tutorial exercise. Thanks but nothing to see here. I've added this line for no particular reason.
+This is a demo/tutorial exercise. Thanks but nothing to see here. I've added this line for no particular reason. Please fork this repository and issue pull request for review.
 
 ###Deployment
 Instructions about using the non-existent test package. This is some more text.
